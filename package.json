@@ -17,7 +17,7 @@
         "@types/react-virtualized": "^9.21.8",
         "@types/styled-components": "^5.0.1",
         "@types/yup": "^0.26.33",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "rc-rate": "^2.5.1",
         "react": "^16.13.0",
         "react-dom": "^16.13.0",
